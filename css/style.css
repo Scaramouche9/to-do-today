@@ -11,8 +11,7 @@ body {
   width: 500px;
   margin: 0 auto;
   margin-top: 40px;
-  background: white;
-  border-radius: 5px;
+  background: #f2eab3;
 }
 
 form {
@@ -25,8 +24,8 @@ input {
 
 #button {
   display: inline-block;
-  background-color: #0025f6;
-  color: #fff;
+  background-color: #de9a8e;
+  color: #222224;
   border-radius: 5px;
   text-align: center;
   margin-top: 2px;
@@ -40,9 +39,9 @@ input {
 
 ol {padding-left: 20px;}
 
-ol li {padding: 5px; color:#000}
+ol li {padding: 5px; color:#222224}
 
-ol li:nth-child(even) {background: #0095f6;}
+ol li:nth-child(even) {background: #f2e480;}
 
 .strike{text-decoration: line-through;}
 
@@ -58,6 +57,6 @@ li > crossOutButton {
   background: none;
   border: none;
   float: right;
-  color: #ff2654;
+  color: #de1212;
   font-weight: 800;
 }
