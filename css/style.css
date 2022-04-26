@@ -1,14 +1,14 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,400);
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
 body {
-  font: normal normal 13px/16px "Open Sans", sans-serif;
-  background: #ff2654;
+  font-family: "Indie Flower", cursive;
+  background: #0b7327;
 
 }
 
 .container{
   padding: 20px;
-  width: 300px;
+  width: 500px;
   margin: 0 auto;
   margin-top: 40px;
   background: white;
